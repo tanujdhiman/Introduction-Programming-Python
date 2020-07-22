@@ -7,7 +7,7 @@ country = country.upper()
 #print(name)
 
 #Create a friendly output
-print('\nHello, ' + name + '. You live in ' + country)
+print('\nHello, ',name ,'. You live in ', country)
 
 
 #Update the value
